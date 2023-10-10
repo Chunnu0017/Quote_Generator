@@ -1,0 +1,25 @@
+
+.container{
+    border:1px solid black;
+    background: pink;
+    width:95%;
+    height:90vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+
+}
+.qoutes{
+    border:10px solid pink;
+    background: lightcyan;
+    width:80%;
+    height:65vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.b1{
+    text-align: center;
+    padding-top: 10px;
+}
